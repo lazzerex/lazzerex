@@ -2,6 +2,11 @@
 本当は君に伝えたいことがあったんだけど
 張り詰めた冷たい風が気持ちよくて
 落葉樹の並木道をただ黙ったまま歩いた_**  - 櫻坂46「TOKYO SNOW」
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
+</div>
+
 ## Stats
 
 ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  ![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=14)
