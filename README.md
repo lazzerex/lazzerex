@@ -15,6 +15,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
 </div>
 
+## My Personal Blog
+This is where I write about the latest trends in technology and diving deep into scientific discoveries, while also jamming through the worlds of music and gaming.
+
+[![Visit Blog](https://img.shields.io/badge/Visit-My%20Blog-blue?style=for-the-badge&logo=vercel)](https://lazzerex-blog.vercel.app/)
+
 ## Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=lazzerex.github.io&show_owner=true)](https://github.com/lazzerex/lazzerex.github.io)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true)](https://github.com/lazzerex/ferris-lang) 
