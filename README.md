@@ -25,6 +25,11 @@
 
 [![Visit Blog](https://img.shields.io/badge/Visit-My%20Blog-blue?style=for-the-badge&logo=vercel)](https://lazzerex-blog.vercel.app/)
 
+## Lazzerex Digital Labs
+> ### Where you can find all the games that I've made and other side projects.
+
+[![Visit Digital Labs](https://img.shields.io/badge/Visit-Digital%20Labs-blue?style=for-the-badge&logo=vercel)](https://digital-labs-nine.vercel.app/)
+
 ## Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=lazzerex.github.io&show_owner=true)](https://github.com/lazzerex/lazzerex.github.io)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true)](https://github.com/lazzerex/ferris-lang) 
