@@ -21,7 +21,7 @@
 [![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://lazzerex.github.io/)
 
 ## My Personal Blog
-> ### This is where I write about the latest trends in technology and diving deep into scientific discoveries, while also jamming through the worlds of music and gaming.
+> ### Where I write about the latest trends in technology and diving deep into scientific discoveries, while also jamming through the worlds of music and gaming.
 
 [![Visit Blog](https://img.shields.io/badge/Visit-My%20Blog-blue?style=for-the-badge&logo=vercel)](https://lazzerex-blog.vercel.app/)
 
