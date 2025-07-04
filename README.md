@@ -30,6 +30,7 @@
 ## Contact
 <p align="left">
 <a href="https://www.youtube.com/@lazzerex8779" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="60" width="70" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/_zeronos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="60" width="70" /></a>
 </p>
 
