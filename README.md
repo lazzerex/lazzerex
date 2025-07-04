@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
 </div>
+
 ## Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=lazzerex.github.io&show_owner=true)](https://github.com/lazzerex/lazzerex.github.io)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true)](https://github.com/lazzerex/ferris-lang) 
