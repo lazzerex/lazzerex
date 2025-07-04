@@ -26,7 +26,7 @@
 [![Visit Blog](https://img.shields.io/badge/Visit-My%20Blog-blue?style=for-the-badge&logo=vercel)](https://lazzerex-blog.vercel.app/)
 
 ## Lazzerex Digital Labs
-> ### Where you can find all the games and side projects that I've made.
+> ### Where you can find all the games and some side projects that I've made.
 
 [![Visit Digital Labs](https://img.shields.io/badge/Visit-Digital%20Labs-blue?style=for-the-badge&logo=vercel)](https://digital-labs-nine.vercel.app/)
 
