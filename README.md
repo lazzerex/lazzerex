@@ -21,9 +21,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Floyd-Warshall-Algorithm&show_owner=true)](https://github.com/lazzerex/Floyd-Warshall-Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Ruby-Selection-Sort&show_owner=true)](https://github.com/lazzerex/Ruby-Selection-Sort)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Pascal-Bubble-Sort&show_owner=true)](https://github.com/lazzerex/Pascal-Bubble-Sort)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Johnson-Algorithm&show_owner=true)](https://github.com/lazzerex/Johnson-Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Markov-Chain&show_owner=true)](https://github.com/lazzerex/Markov-Chain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Johnson-Algorithm&show_owner=true)](https://github.com/lazzerex/Johnson-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Pascal-Bubble-Sort&show_owner=true)](https://github.com/lazzerex/Pascal-Bubble-Sort)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Assembly-Guessing-Game&show_owner=true)](https://github.com/lazzerex/Assembly-Guessing-Game)
 
 ## Contact:
