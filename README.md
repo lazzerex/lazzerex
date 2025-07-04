@@ -15,6 +15,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
 </div>
 
+## My Personal Website
+> ### Where you can learn more about me and my coding journey.
+
+[![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://lazzerex.github.io/)
+
 ## My Personal Blog
 > ### This is where I write about the latest trends in technology and diving deep into scientific discoveries, while also jamming through the worlds of music and gaming.
 
