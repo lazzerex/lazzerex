@@ -3,7 +3,7 @@
 
 **Visit My Personal Site**: [https://lazzerex.github.io](https://lazzerex.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lazzerex/math-visualizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=math-visualizer)](https://github.com/lazzerex/math-visualizer)
 
 
 
