@@ -1,7 +1,5 @@
->**_底冷えがする12月のある日 僕たちはずっと歩いていた 
-本当は君に伝えたいことがあったんだけど 
-張り詰めた冷たい風が気持ちよくて 
-落葉樹の並木道をただ黙ったまま歩いた_**   - 櫻坂46「TOKYO SNOW」
+>**_初めから そうあきらめてしまったら
+僕らは何のために生まれたのか?_**   - 欅坂46「SILENT MAJORITY」
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
