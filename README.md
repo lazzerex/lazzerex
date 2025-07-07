@@ -1,14 +1,20 @@
 >**_初めから そうあきらめてしまったら
-僕らは何のために生まれたのか?_**   - 欅坂46「SILENT MAJORITY」
+僕らは何のために生まれたのか?_**
+>
+>_If we give up like that from the beginning, then what was the point of us being born?_  - 欅坂46「SILENT MAJORITY」
 
 >**_最高の日々は終わった?
 幸せな日々は消えた?
 輝いた瞬間は遠く
 過去に 戻れやしないと知っている
-夢を見るなら 先の未来がいい_**   - 櫻坂46「何歳の頃に戻りたいのか？」
+夢を見るなら 先の未来がいい_**
+>
+>_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
 >**_誰も承認欲求強すぎて
-そんなにも自分に自信がないのかい?_**   - 櫻坂46「承認欲求」
+そんなにも自分に自信がないのかい?_**
+>
+>_Is it possible that everyone has such a strong need for approval that they have such low self-confidence?_  - 櫻坂46「承認欲求」
 
 >**_自分から
 叫びたいよ
@@ -16,12 +22,18 @@
 声を枯らし
 ここにいると知らせたい
 黙ってたら
-気づかれない_**   - 櫻坂46「静寂の暴力」
+気づかれない_**
+>
+>_I want to shout it out myself, it's okay to cry, I want to lose my voice, I want to let you know I'm here, if I stay silent, you won't notice._  - 櫻坂46「静寂の暴力」
 
 >**_君を想う桜 風に吹かれて 心の中を舞い上がる
 せめてもう少し満開でいてくれたなら
 どんな好きでいても 季節は過ぎて あっと言う間に散り行くもの
-あの日は 桜月_**   - 櫻坂46「桜月」
+あの日は 桜月_**
+>
+>_The cherry blossoms that make me think of you are blown by the wind and soar through my heart. If only they could stay in full bloom a little longer. No matter how much I love you, the seasons pass and they fall in an instant. That day, the cherry blossoms were in full bloom._  - 櫻坂46「桜月」
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
