@@ -11,10 +11,17 @@
 >
 >_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
->**_誰も承認欲求強すぎて
-そんなにも自分に自信がないのかい?_**
+>**_認められる日が来るまで
+走り続けろ　無念_**
 >
->_Is it possible that everyone has such a strong need for approval that they have such low self-confidence?_  - 櫻坂46「承認欲求」
+>_Keep running until the day comes when you are recognized._  - 櫻坂46「無念」
+
+>**_底冷えがする12月のある日 僕たちはずっと歩いていた
+本当は君に伝えたいことがあったんだけど
+張り詰めた冷たい風が気持ちよくて
+落葉樹の並木道をただ黙ったまま歩いた_**
+>
+>_One chilly December day, we were walking all the way. In truth, there was something I wanted to tell you. The cold, crisp wind felt good. We just walked in silence along the deciduous tree-lined path._  - 櫻坂46「TOKYO SNOW」
 
 >**_自分から
 叫びたいよ
