@@ -1,3 +1,8 @@
+>**_知らないと言う罪と　知りすぎる罠
+動けなくなる前に　動き出そう_**
+>
+>_The sin of not knowing and the trap of knowing too much, let's start moving before we can't move anymore._  - 相川七瀬「Round ZERO~BLADE BRAVE」
+
 >**_初めから そうあきらめてしまったら
 僕らは何のために生まれたのか?_**
 >
@@ -22,16 +27,6 @@
 落葉樹の並木道をただ黙ったまま歩いた_**
 >
 >_One chilly December day, we were walking all the way. In truth, there was something I wanted to tell you. The cold, crisp wind felt good. We just walked in silence along the deciduous tree-lined path._  - 櫻坂46「TOKYO SNOW」
-
->**_自分から
-叫びたいよ
-泣いてもいい
-声を枯らし
-ここにいると知らせたい
-黙ってたら
-気づかれない_**
->
->_I want to shout it out myself, it's okay to cry, I want to lose my voice, I want to let you know I'm here, if I stay silent, you won't notice._  - 櫻坂46「静寂の暴力」
 
 >**_君を想う桜 風に吹かれて 心の中を舞い上がる
 せめてもう少し満開でいてくれたなら
