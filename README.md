@@ -66,10 +66,10 @@
 
 ## Other Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true&card_width=400)](https://github.com/lazzerex/portfolio-layout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=flavor-link&show_owner=true&card_width=400)](https://github.com/lazzerex/flavor-link)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=task-flow-axios&show_owner=true&card_width=400)](https://github.com/lazzerex/task-flow-axios)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true&card_width=400)](https://github.com/lazzerex/portfolio-layout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
 
