@@ -67,6 +67,7 @@
 ## Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=flavor-link&show_owner=true)](https://github.com/lazzerex/flavor-link)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true)](https://github.com/lazzerex/ferris-lang)   
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true)](https://github.com/lazzerex/premier-league-analysis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true)](https://github.com/lazzerex/portfolio-layout)
 
  ## Algorithm & Programming Practice
