@@ -71,6 +71,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true&card_width=400)](https://github.com/lazzerex/portfolio-layout)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=next-appointment-booking&show_owner=true&card_width=400)](https://github.com/lazzerex/next-appointment-booking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=laravel-medical-appointment&show_owner=true)](https://github.com/lazzerex/laravel-medical-appointment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
 
