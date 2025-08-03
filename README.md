@@ -1,13 +1,3 @@
->**_知らないと言う罪と　知りすぎる罠
-動けなくなる前に　動き出そう_**
->
->_The sin of not knowing and the trap of knowing too much, let's start moving before we can't move anymore._  - 相川七瀬「Round ZERO~BLADE BRAVE」
-
->**_初めから そうあきらめてしまったら
-僕らは何のために生まれたのか?_**
->
->_If we give up like that from the beginning, then what was the point of us being born?_  - 欅坂46「SILENT MAJORITY」
-
 >**_最高の日々は終わった?
 幸せな日々は消えた?
 輝いた瞬間は遠く
@@ -16,24 +6,7 @@
 >
 >_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
->**_認められる日が来るまで
-走り続けろ　無念_**
->
->_Keep running until the day comes when you are recognized._  - 櫻坂46「無念」
 
->**_底冷えがする12月のある日 僕たちはずっと歩いていた
-本当は君に伝えたいことがあったんだけど
-張り詰めた冷たい風が気持ちよくて
-落葉樹の並木道をただ黙ったまま歩いた_**
->
->_One chilly December day, we were walking all the way. In truth, there was something I wanted to tell you. The cold, crisp wind felt good. We just walked in silence along the deciduous tree-lined path._  - 櫻坂46「TOKYO SNOW」
-
->**_君を想う桜 風に吹かれて 心の中を舞い上がる
-せめてもう少し満開でいてくれたなら
-どんな好きでいても 季節は過ぎて あっと言う間に散り行くもの
-あの日は 桜月_**
->
->_The cherry blossoms that make me think of you are blown by the wind and soar through my heart. If only they could stay in full bloom a little longer. No matter how much I love you, the seasons pass and they fall in an instant. That day, the cherry blossoms were in full bloom._  - 櫻坂46「桜月」
 
 
 
