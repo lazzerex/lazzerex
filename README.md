@@ -66,22 +66,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Database Management & Local Development
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
-## Productivity & Documentation
+## Productivity, Documentation & Typesetting
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
 ---
 
 
 # Stats
 
-![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=18)   ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  
+![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=19)   ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
