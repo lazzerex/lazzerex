@@ -113,7 +113,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=modern-typst-resume&show_owner=true&card_width=400)](https://github.com/lazzerex/modern-typst-resume)
 
  # Algorithm & Programming Practice
 
