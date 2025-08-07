@@ -66,10 +66,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-41454A?style=for-the-badge&logo=codeblocks&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
 
 ## Database Management & Local Development
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+
+## File Management & FTP
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-005C9C?style=for-the-badge&logo=winscp&logoColor=white)
 
 ## Productivity, Documentation & Typesetting
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
