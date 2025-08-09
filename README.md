@@ -118,9 +118,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true&card_width=400)](https://github.com/lazzerex/portfolio-layout)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoTetris&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoTetris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=modern-typst-resume&show_owner=true&card_width=400)](https://github.com/lazzerex/modern-typst-resume)
+
+# The NEO Game Series
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSweeper&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSweeper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSudoku&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSudoku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSolitaire&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSolitaire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoTetris&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoTetris)
 
  # Algorithm & Programming Practice
 
