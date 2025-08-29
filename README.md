@@ -40,10 +40,13 @@
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![Anime.js](https://img.shields.io/badge/Anime.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![D3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ## Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -128,7 +131,8 @@
 
 # Other Projects
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=customer-feedback-plugin&show_owner=true&card_width=400)](https://github.com/lazzerex/customer-feedback-plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=codebase-knowledge-map&show_owner=true&card_width=400)](https://github.com/lazzerex/codebase-knowledge-map)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=flavor-link&show_owner=true&card_width=400)](https://github.com/lazzerex/flavor-link)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=task-flow-axios&show_owner=true&card_width=400)](https://github.com/lazzerex/task-flow-axios)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=next-appointment-booking&show_owner=true&card_width=400)](https://github.com/lazzerex/next-appointment-booking)
@@ -137,7 +141,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=modern-typst-resume&show_owner=true&card_width=400)](https://github.com/lazzerex/modern-typst-resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=customer-feedback-plugin&show_owner=true&card_width=400)](https://github.com/lazzerex/customer-feedback-plugin)
 
 
 # The NEO Game Series
