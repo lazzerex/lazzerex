@@ -31,6 +31,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=for-the-badge&logo=pascal&logoColor=white)
+![Lil](https://img.shields.io/badge/Lil-FF6B6B?style=for-the-badge&logo=lua&logoColor=white)
 
 ## Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -41,6 +42,7 @@
 ![Anime.js](https://img.shields.io/badge/Anime.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![D3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Decker](https://img.shields.io/badge/Decker-4A90E2?style=for-the-badge&logo=canvas&logoColor=white)
 
 ## Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
