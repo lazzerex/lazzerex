@@ -14,7 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
 </div>
 
+# Stats
 
+  ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
+</div>
 
 # My Personal Website
 > ### Where you can learn more about me and my coding journey.
