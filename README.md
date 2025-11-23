@@ -16,7 +16,7 @@
 
 # Stats
 
-  ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  
+  ![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=14&hide=html,css&exclude_repo=premier-league-analysis)![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
