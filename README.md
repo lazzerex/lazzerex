@@ -6,7 +6,11 @@
 >
 >_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
-
+<div align="center">
+  <a href="https://open.spotify.com/user/31cz56ul772amomzbuxnlbxrtrtu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cz56ul772amomzbuxnlbxrtrtu&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
 
