@@ -48,24 +48,7 @@
 
 [![Visit Digital Labs](https://img.shields.io/badge/Visit-Digital%20Labs-blue?style=for-the-badge&logo=vercel)](https://digital-labs-nine.vercel.app/)
 
-# The NEO Game Series
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSweeper&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSweeper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSudoku&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSudoku)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=Neo2048&show_owner=true&card_width=400)](https://github.com/lazzerex/Neo2048)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoSolitaire&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoSolitaire)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=NeoTetris&show_owner=true&card_width=400)](https://github.com/lazzerex/NeoTetris)
 
-# Other Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=customer-feedback-plugin&show_owner=true&card_width=400)](https://github.com/lazzerex/customer-feedback-plugin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=codebase-knowledge-map&show_owner=true&card_width=400)](https://github.com/lazzerex/codebase-knowledge-map)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=flavor-link&show_owner=true&card_width=400)](https://github.com/lazzerex/flavor-link)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=task-flow-axios&show_owner=true&card_width=400)](https://github.com/lazzerex/task-flow-axios)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=next-appointment-booking&show_owner=true&card_width=400)](https://github.com/lazzerex/next-appointment-booking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=laravel-medical-appointment&show_owner=true)](https://github.com/lazzerex/laravel-medical-appointment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=portfolio-layout&show_owner=true&card_width=400)](https://github.com/lazzerex/portfolio-layout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=ferris-lang&show_owner=true&card_width=400)](https://github.com/lazzerex/ferris-lang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=premier-league-analysis&show_owner=true&card_width=400)](https://github.com/lazzerex/premier-league-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazzerex&repo=modern-typst-resume&show_owner=true&card_width=400)](https://github.com/lazzerex/modern-typst-resume)
 
 
 
