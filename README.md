@@ -6,6 +6,8 @@
 >
 >_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/31cz56ul772amomzbuxnlbxrtrtu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cz56ul772amomzbuxnlbxrtrtu&count=5" alt="Spotify recently played"  />
@@ -26,6 +28,8 @@
 </div>
 
 # Stats
+
+<center><a href="https://gitroll.io/profile/uGYZDaNjx0lfKuoRwsRpTOQB3IGu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGYZDaNjx0lfKuoRwsRpTOQB3IGu1?theme=light" alt="GitRoll Profile Badge"/></a></center>
 
 ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)   ![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=14&hide=html,css&exclude_repo=premier-league-analysis) 
 
