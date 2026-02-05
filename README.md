@@ -29,7 +29,14 @@
 
 # Stats
 
+<center><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"><img  alt="lazzerex's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lazzerex?cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"/></a></center>
+
+# GitRoll
+
 <center><a href="https://gitroll.io/profile/uGYZDaNjx0lfKuoRwsRpTOQB3IGu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGYZDaNjx0lfKuoRwsRpTOQB3IGu1?theme=light" alt="GitRoll Profile Badge"/></a></center>
+
+ 
+
 
 ![lazzerex's Stats](https://github-readme-stats.vercel.app/api?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&&show=reviews,prs_merged,prs_merged_percentage)   ![lazzerex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzerex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=14&hide=html,css&exclude_repo=premier-league-analysis) 
 
