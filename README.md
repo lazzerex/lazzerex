@@ -30,6 +30,7 @@
 # Stats
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"><img  alt="lazzerex's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lazzerex?cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"/></a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lazzerex)](https://leetcode.com/lazzerex)
 
 # GitRoll
 
