@@ -27,6 +27,12 @@
   <img src="https://favourite-quotes-pied.vercel.app/api/quote" alt="Favorite Quote" />
 </div>
 
+# Languages
+
+<div align="center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/70086eaa-0c0f-4372-b71a-1ad62da2bf1d" />
+</div>
+
 # Stats
 
 <div align="center">
