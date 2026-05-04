@@ -29,8 +29,18 @@
 
 # Stats
 
+<div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"><img  alt="lazzerex's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lazzerex?cardType=level&theme=ayu-mirage&fontFamily=&preferLogin=false&Points.IndirectStars=0&Border=DDDDDD00"/></a>
+</div>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/lazzerex)](https://leetcode.com/lazzerex)
+
+<div align="center">
+  <a href="https://leetcode.com/lazzerex">
+    <img src="https://leetcard.jacoblin.cool/lazzerex" alt="Leetcode Stats" width="400"/>
+  </a>
+</div>
+
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lazzerex&theme=kanagawa-paper" alt="GitHub Streak" /></a>
 </div>
