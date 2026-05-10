@@ -8,6 +8,7 @@
 
 
 
+
 <div align="center">
   <a href="https://open.spotify.com/user/31cz56ul772amomzbuxnlbxrtrtu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cz56ul772amomzbuxnlbxrtrtu&count=5" alt="Spotify recently played"  />
@@ -16,16 +17,23 @@
 
 
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
 </div>
 
-# Quotes
 
+
+
+# Quotes
 
 <div align="center">
   <img src="https://favourite-quotes-pied.vercel.app/api/quote" alt="Favorite Quote" />
 </div>
+
+# Contribution
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazzerex&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Languages
 
@@ -33,7 +41,10 @@
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/70086eaa-0c0f-4372-b71a-1ad62da2bf1d" />
 </div>
 
+
 # Stats
+
+
 
 <div align="center">
   <a href="https://leetcode.com/lazzerex">
@@ -50,6 +61,8 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lazzerex&theme=kanagawa-paper" alt="GitHub Streak" /></a>
 </div>
+
+
 
 
 
