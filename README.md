@@ -30,7 +30,7 @@
 # Contribution 
 
 <div align="center">
- <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="64px" height="64px" alt="bocchihappy"></a>
+ <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="128px" height="128px" alt="bocchihappy"></a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazzerex&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -49,9 +49,12 @@
 # Languages
 
 <div align="center">
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/70086eaa-0c0f-4372-b71a-1ad62da2bf1d" />
+ <a href="https://emoji.gg/emoji/2363-frierenpleased"><img src="https://cdn3.emoji.gg/emojis/2363-frierenpleased.png" width="128px" height="128px" alt="FrierenPleased"></a>
 </div>
 
+<div align="center">
+ <img width="400" src=https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lazzerex&hide=tex&theme=radical&layout=compact&langs_count=10>
+</div>
 
 # Stats
 
