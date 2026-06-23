@@ -7,6 +7,10 @@
 >_Are the best days over? Have the happy days disappeared? The shining moments are far away. I know I can't go back to the past. If I'm going to dream, it's better to dream about the future._  - 櫻坂46「何歳の頃に戻りたいのか？」
 
 
+<div align="center">
+ <a href="https://emoji.gg/emoji/2078-herta-kurukuru"><img src="https://cdn3.emoji.gg/emojis/2078-herta-kurukuru.gif" width="128px" height="128px" alt="Herta_Kurukuru"></a>
+</div>
+
 
 
 <div align="center">
