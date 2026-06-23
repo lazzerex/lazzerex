@@ -26,15 +26,22 @@
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
 </div>
 
-# Contribution
+
+# Contribution 
+
+<div align="center">
+ <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="64px" height="64px" alt="bocchihappy"></a>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazzerex&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
+
 # Quotes
 
-<div align="center">
+
+<div align="center">  
   <img src="https://favourite-quotes-pied.vercel.app/api/quote" alt="Favorite Quote" />
 </div>
 
@@ -81,6 +88,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazzerex&theme=onedark&title=-Stars,-Followers,-Issues,-Experience&margin-w=15" alt="Trophies">
 </div> -->
+
+
 
 # My Personal Website
 > ### Where you can learn more about me and my coding journey.
