@@ -9,7 +9,7 @@
 
 - <strong>Hobbies</strong>: Music
 
-- <strong>Favourite Artists</strong>: Sakurazaka46, Official HIGE Dandism, Sakanaction, Yorushika, Porter Robinson
+- <strong>Favourite Artists</strong>: Sakurazaka46, Official HIGE Dandism, Sakanaction, Yorushika,Haruka Nakamura, Porter Robinson
   
 - <strong>Interests</strong>: Open Source Software, Operating Systems
 
