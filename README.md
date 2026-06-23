@@ -40,6 +40,9 @@
 
 # Quotes
 
+<div align="center">
+ <a href="https://emoji.gg/emoji/2363-frierenpleased"><img src="https://cdn3.emoji.gg/emojis/2363-frierenpleased.png" width="128px" height="128px" alt="FrierenPleased"></a>
+</div>
 
 <div align="center">  
   <img src="https://favourite-quotes-pied.vercel.app/api/quote" alt="Favorite Quote" />
@@ -48,8 +51,8 @@
 
 # Languages
 
-<div align="center">
- <a href="https://emoji.gg/emoji/2363-frierenpleased"><img src="https://cdn3.emoji.gg/emojis/2363-frierenpleased.png" width="128px" height="128px" alt="FrierenPleased"></a>
+<div align="center">  
+ <a href="https://emoji.gg/emoji/747329-remm"><img src="https://cdn3.emoji.gg/emojis/747329-remm.gif" width="128px" height="128px" alt="remm"></a>
 </div>
 
 <div align="center">
@@ -58,7 +61,9 @@
 
 # Stats
 
-
+<div align="center">
+ <a href="https://emoji.gg/emoji/7162-anya-blush"><img src="https://cdn3.emoji.gg/emojis/7162-anya-blush.gif" width="128px" height="128px" alt="anya_blush"></a>
+</div>
 
 <div align="center">
   <a href="https://leetcode.com/lazzerex">
