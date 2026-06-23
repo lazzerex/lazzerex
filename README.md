@@ -1,3 +1,22 @@
+
+<div align="center">
+ <a href="https://emoji.gg/emoji/49559-gifmomo-wave"><img src="https://cdn3.emoji.gg/emojis/49559-gifmomo-wave.gif" width="128px" height="128px" alt="gifMomo_Wave"></a>
+</div>
+
+## About Me
+
+- <strong>Name</strong>: lazzerex
+
+- <strong>Hobbies</strong>: Music
+
+- <strong>Favourite artists</strong>: Sakurazaka46, Sakanaction, Porter Robinson
+  
+- <strong>Interests</strong>: Open Source Software, Operating Systems
+
+- <strong>Anime & Manga</strong>: Serial Experiments Lain, Chi: Chikyū no Undō ni Tsuite, Boku dake ga Inai Machi, Vagabond, Totsukuni no Shōjo
+<br>
+
+
 >**_最高の日々は終わった?
 幸せな日々は消えた?
 輝いた瞬間は遠く
@@ -27,7 +46,7 @@
 </div>
 
 
-# Contribution 
+# <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a> Contribution <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a>
 
 <div align="center">
  <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="128px" height="128px" alt="bocchihappy"></a>
@@ -59,7 +78,7 @@
  <img width="400" src=https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lazzerex&hide=tex&theme=radical&layout=compact&langs_count=10>
 </div>
 
-# Stats
+# Stats 
 
 <div align="center">
  <a href="https://emoji.gg/emoji/7162-anya-blush"><img src="https://cdn3.emoji.gg/emojis/7162-anya-blush.gif" width="128px" height="128px" alt="anya_blush"></a>
@@ -99,7 +118,7 @@
 
 
 
-# My Personal Website
+# <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a> My Personal Website <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a>
 > ### Where you can learn more about me and my coding journey.
 
 [![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=vercel)](https://lazzerex.github.io/)
@@ -113,6 +132,7 @@
 > ### Where you can find all the games and some side projects that I've made.
 
 [![Visit Digital Labs](https://img.shields.io/badge/Visit-Digital%20Labs-blue?style=for-the-badge&logo=vercel)](https://digital-labs-nine.vercel.app/)
+
 
 
 
