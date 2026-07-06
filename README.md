@@ -45,6 +45,18 @@
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
 </div>
 
+# GitFut
+
+<div align="center">
+  <a href="https://gitfut.com/lazzerex">
+    <img
+      src="https://gitfut.com/lazzerex.png"
+      alt="My GitFut card"
+      width="300"
+    />
+  </a>
+</div>
+
 
 # <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a> Contribution <a href="https://emoji.gg/emoji/384000-pinkpixeltwinkle"><img src="https://cdn3.emoji.gg/emojis/384000-pinkpixeltwinkle.png" width="32px" height="32px" alt="PinkPixelTwinkle"></a>
 
@@ -79,6 +91,8 @@
 </div>
 
 # Stats 
+
+[![My GitFut card](https://gitfut.com/YOUR_USERNAM.png)](https://gitfut.com/lazzerex)
 
 <div align="center">
  <a href="https://emoji.gg/emoji/7162-anya-blush"><img src="https://cdn3.emoji.gg/emojis/7162-anya-blush.gif" width="128px" height="128px" alt="anya_blush"></a>
