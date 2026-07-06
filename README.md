@@ -92,8 +92,6 @@
 
 # Stats 
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAM.png)](https://gitfut.com/lazzerex)
-
 <div align="center">
  <a href="https://emoji.gg/emoji/7162-anya-blush"><img src="https://cdn3.emoji.gg/emojis/7162-anya-blush.gif" width="128px" height="128px" alt="anya_blush"></a>
 </div>
