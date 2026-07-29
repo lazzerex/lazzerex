@@ -45,6 +45,17 @@
   <img src="https://komarev.com/ghpvc/?username=lazzerex" alt="Profile Views">
 </div>
 
+
+# GitRPG
+
+<div align="center">
+  <a href="https://gitrpg.onrender.com/card/lazzerex.svg">
+    <img
+      src="https://gitrpg.onrender.com/card/lazzerex.svg"
+    />
+  </a>
+</div>
+
 # GitFut
 
 <div align="center">
