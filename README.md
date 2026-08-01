@@ -49,9 +49,9 @@
 # GitRPG
 
 <div align="center">
-  <a href="https://gitrpg.onrender.com/card/lazzerex.svg?v=2">
+  <a href="https://gitrpg.onrender.com/card/lazzerex.svg?v=3">
     <img
-      src="https://gitrpg.onrender.com/card/lazzerex.svg?v=2"
+      src="https://gitrpg.onrender.com/card/lazzerex.svg?v=3"
     />
   </a>
 </div>
