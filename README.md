@@ -75,7 +75,7 @@
  <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="128px" height="128px" alt="bocchihappy"></a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazzerex&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
