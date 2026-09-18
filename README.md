@@ -1,9 +1,21 @@
 
+
+
 <div align="center">
  <a href="https://emoji.gg/emoji/49559-gifmomo-wave"><img src="https://cdn3.emoji.gg/emojis/49559-gifmomo-wave.gif" width="128px" height="128px" alt="gifMomo_Wave"></a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AA2F7&size=24&center=true&vCenter=true&width=720&height=50&lines=Welcome+to+my+profile+%F0%9F%91%8B;Fullstack+%26+Systems+Developer;Building+software+from+web+to+systems">
+  </a>
+</p>
+
+
+
 ## About Me
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=lazzerex&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 - <strong>Name</strong>: lazzerex
 
@@ -18,6 +30,13 @@
 - <strong>Anime & Manga</strong>: Serial Experiments Lain, Chi: Chikyū no Undō ni Tsuite, Boku dake ga Inai Machi, Vagabond, Totsukuni no Shōjo
 <br>
 
+<div align="center">
+ <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:nambinh236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.youtube.com/@lazzerex8779"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</div>
+
+<br>
 
 >**_最高の日々は終わった?
 幸せな日々は消えた?
@@ -54,74 +73,111 @@
 
 ### Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="48" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="48" alt="Dart"/>
+</div>
+
+<hr>
 
 ### Frameworks & Platforms
 
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC.svg?style=for-the-badge&logo=htmx&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Topcoat](https://img.shields.io/badge/Topcoat-4192C6.svg?style=for-the-badge&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="48" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="48" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="48" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="48" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="48" alt="WordPress"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Topcoat-4192C6.svg?style=for-the-badge&logoColor=white" height="28" alt="Topcoat"/>
+</div>
+
+<hr>
 
 ### Backend & APIs
 
-![Gin](https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Chi](https://img.shields.io/badge/Chi_Router-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A.svg?style=for-the-badge&logo=grpc&logoColor=white)
-![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Zap](https://img.shields.io/badge/Zap_Logging-FF6B00.svg?style=for-the-badge&logo=go&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="48" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="48" alt="gRPC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="48" alt="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="48" alt="REST APIs"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Gin"/>
+  <img src="https://img.shields.io/badge/Chi_Router-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Chi Router"/>
+  <img src="https://img.shields.io/badge/Tokio-000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="28" alt="Tokio"/>
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Protocol Buffers"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B.svg?style=for-the-badge&logoColor=white" height="28" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Zap_Logging-FF6B00.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Zap Logging"/>
+</div>
+
+<hr>
 
 ### Databases & Storage
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase"/>
+</div>
+
+<hr>
 
 ### Systems & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020.svg?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="48" alt="Helm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="48" alt="Cloudflare"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="48" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48" alt="Grafana"/>
+</div>
+
+<hr>
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Kate](https://img.shields.io/badge/Kate-1B1B1B.svg?style=for-the-badge&logo=kde&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="48" alt="Neovim"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logoColor=white" height="28" alt="Zed"/>
+  <img src="https://img.shields.io/badge/Kate-1B1B1B.svg?style=for-the-badge&logoColor=white" height="28" alt="Kate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="48" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="48" alt="pnpm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="48" alt="Composer"/>
+  <img src="https://img.shields.io/badge/Cargo-000000.svg?style=for-the-badge&logoColor=white" height="28" alt="Cargo"/>
+</div>
 
 # GitRPG
 
