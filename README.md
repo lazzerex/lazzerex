@@ -208,7 +208,9 @@
  <a href="https://emoji.gg/emoji/4285-bocchihappy"><img src="https://cdn3.emoji.gg/emojis/4285-bocchihappy.gif" width="128px" height="128px" alt="bocchihappy"></a>
 </div>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg?v=1" alt="3D contribution graph">
+</p>
 
 
 
