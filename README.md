@@ -101,6 +101,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="48" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="48" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="48" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height="48" alt="HTMX"/>
+  <img src="https://cdn.simpleicons.org/hono" height="48" alt="Hono.js"/>
+  <img src="https://cdn.simpleicons.org/inertia" height="48" alt="Inertia.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="48" alt="Svelte"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="48" alt="Bun"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="48" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="48" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET"/>
@@ -121,19 +128,20 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="48" alt="Rust"/>
+  <img src="https://cdn.simpleicons.org/gin/00ADD8" height="48" alt="Gin"/>
+  <img src="https://cdn.simpleicons.org/tokio" height="48" alt="Tokio"/>
+  <img src="https://cdn.simpleicons.org/zap/FF6B00" height="48" alt="Zap Logging"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="48" alt="gRPC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="48" alt="GraphQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="48" alt="REST APIs"/>
+  <img src="https://cdn.simpleicons.org/axios" height="48" alt="Axios"/>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Gin-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Gin"/>
   <img src="https://img.shields.io/badge/Chi_Router-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Chi Router"/>
-  <img src="https://img.shields.io/badge/Tokio-000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="28" alt="Tokio"/>
   <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Protocol Buffers"/>
   <img src="https://img.shields.io/badge/REST_APIs-02569B.svg?style=for-the-badge&logoColor=white" height="28" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Zap_Logging-FF6B00.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Zap Logging"/>
 </div>
 
 <hr>
@@ -186,6 +194,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="48" alt="pnpm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="48" alt="Composer"/>
+  <img src="https://cdn.simpleicons.org/zedindustries/084CCF" height="48" alt="Zed"/>
+  <img src="https://cdn.simpleicons.org/overleaf/47A141" height="48" alt="Overleaf"/>
+  <img src="https://cdn.simpleicons.org/typst/239DAD" height="48" alt="Typst"/>
 </div>
 
 <div align="center">
@@ -193,10 +204,7 @@
   <img src="https://img.shields.io/badge/Cargo-000000.svg?style=for-the-badge&logoColor=white" height="28" alt="Cargo"/>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" height="28" alt="Laragon"/>
   <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="HeidiSQL"/>
-  <img src="https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logoColor=white" height="28" alt="Zed"/>
   <img src="https://img.shields.io/badge/Kate-1B1B1B.svg?style=for-the-badge&logoColor=white" height="28" alt="Kate"/>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" height="28" alt="Overleaf"/>
-  <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" height="28" alt="Typst"/>
 </div>
 
 # GitRPG
