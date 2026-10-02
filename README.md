@@ -121,7 +121,7 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Topcoat-4192C6.svg?style=for-the-badge&logoColor=white" height="28" alt="Topcoat"/>
+  <img src="https://img.shields.io/badge/Topcoat-4192C6?logoColor=white" height="28" alt="Topcoat"/>
 </div>
 
 <hr>
@@ -142,9 +142,9 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Chi_Router-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Chi Router"/>
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Protocol Buffers"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B.svg?style=for-the-badge&logoColor=white" height="28" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Chi_Router-00ADD8?logo=go&logoColor=white" height="28" alt="Chi Router"/>
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?logo=google&logoColor=white" height="28" alt="Protocol Buffers"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?logoColor=white" height="28" alt="REST APIs"/>
 </div>
 
 <hr>
@@ -213,10 +213,10 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Cargo-000000.svg?style=for-the-badge&logoColor=white" height="28" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" height="28" alt="Laragon"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="HeidiSQL"/>
-  <img src="https://img.shields.io/badge/Kate-1B1B1B.svg?style=for-the-badge&logoColor=white" height="28" alt="Kate"/>
+  <img src="https://img.shields.io/badge/Cargo-000000?logoColor=white" height="28" alt="Cargo"/>
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white" height="28" alt="Laragon"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?logo=mysql&logoColor=white" height="28" alt="HeidiSQL"/>
+  <img src="https://img.shields.io/badge/Kate-1B1B1B?logoColor=white" height="28" alt="Kate"/>
 </div>
 
 # GitRPG
