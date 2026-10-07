@@ -204,6 +204,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="48" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="Vite"/>
   <img src="https://cdn.simpleicons.org/turborepo/EF4444" height="48" alt="Turborepo"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="48" alt="pnpm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="48" alt="Composer"/>
   <img src="https://cdn.simpleicons.org/zedindustries/084CCF" height="48" alt="Zed"/>
