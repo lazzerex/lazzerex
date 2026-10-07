@@ -263,7 +263,7 @@
 </div>
 
 <div align="center">  
-  <img src="https://favourite-quotes-pied.vercel.app/api/quote" alt="Favorite Quotes" />
+  <img src="https://favourite-quotes-pied.vercel.app/api/quote?v=2" alt="Favorite Quotes" />
 </div>
 
 
