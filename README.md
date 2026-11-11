@@ -9,6 +9,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AA2F7&size=24&center=true&vCenter=true&width=720&height=50&lines=Welcome+to+my+profile+%F0%9F%91%8B;Fullstack+%26+Systems+Developer;Building+software+from+web+to+systems">
   </a>
+ 
+ <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=150422206" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=150422206&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @lazzerex" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=150422206&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </p>
 
 
